@@ -1,0 +1,6 @@
+name = "srikanthvarma"
+print("name")
+email = "sriaknthvarmas34@gmail.com"
+print(email)
+
+input(" name +" \n"+email")
